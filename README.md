@@ -65,3 +65,4 @@ All data is user-specific and stored securely with optional login features plann
 
 *OUTPUT* :
 
+![Image](https://github.com/user-attachments/assets/46b40fbe-9676-4cd3-a3e6-e45640219954)
